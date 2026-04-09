@@ -308,8 +308,7 @@ export function PromoBadge() {
       tip: 'Passe apenas a referência: onClick={props.onClick}.'
     }
   ]
-}
-];
+},
   {
     id: 'act-9',
     lessonId: 'lesson-1',
